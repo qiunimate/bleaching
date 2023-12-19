@@ -8,7 +8,6 @@ In this directory, you can find:
 - the notebook showing the whole process (bleaching.ipynb)
 - the best model (lstm.sav)
 - the environment file (environment.yml)
-- prediction file (prediction.py)
 
 You can reproduce this environment via
 
