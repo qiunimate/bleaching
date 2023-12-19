@@ -37,13 +37,13 @@ It turns out that the second one performes better.
 
 As for the model selection, Random Forest, Xgbost and lightlgb were tried, for each of them, a grid search was carried out in order to find the best parameters and a K-fold validation was realised on the best model, to reduce overfitting.
 
-At last, we trained a neural network based on Long Short Term Memory (LSTM) and compared the performance with tree-based models.
+At last, we trained a neural network based on Long Short Term Memory (LSTM) and compared the performance with tree-based models. The LSTM works eventually slightly better than previous tree-based models.
 
 # Results
-the distribution of error
+the distribution of error (LSTM)
 ![avatar](./imgs/err.png)
 
-the distribution of error/groundtruth
+the distribution of error/groundtruth (LSTM)
 ![avatar](./imgs/errpercentage.png)
 
 
