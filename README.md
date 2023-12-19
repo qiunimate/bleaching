@@ -6,7 +6,7 @@ In this directory, you can find:
 
 - resouce csv files (input1, input2, target)
 - the notebook showing the whole process (bleaching.ipynb)
-- the best model (lstm.sav)
+- the best model (lstm.pt)
 - the environment file (environment.yml)
 
 You can reproduce this environment via
@@ -23,7 +23,7 @@ If you have pytorch locally, very good! otherwise, you may also use google colab
 https://colab.research.google.com/drive/1wg5DZWu9e5ZUo9EgVo8X4bbcxxpp5oJv?usp=sharing
 
 # Process
-There are 2 principle steps in the preocess, which are feature selection and model selection.
+There are 2 principle steps in the process, which are feature selection and model selection.
 
 ## Feature selection
 Two methods were utilised for feature selection, which are:
