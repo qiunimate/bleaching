@@ -18,7 +18,9 @@ then activate it by:
 
 `conda activate <name_env>`
 
-You may also use google colab to avoid the environment problem
+Note that there is no pytorch in this yaml file (because there is no pytorch on my new computer...).
+
+If you have pytorch locally, very good! otherwise, you may also use google colab to avoid the environment problem
 https://colab.research.google.com/drive/1wg5DZWu9e5ZUo9EgVo8X4bbcxxpp5oJv?usp=sharing
 
 # Process
